@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource prefix="C:\Users\Oyun\Downloads\SAR\SAR FRONTEND\SAR GUI\icons">
+        <file>C:/Users/Oyun/Downloads/SAR/SAR FRONTEND/SAR GUI/icons/sunny.png</file>
+        <file>C:/Users/Oyun/Downloads/SAR/SAR FRONTEND/SAR GUI/icons/partly_cloudy.png</file>
+        <file>C:/Users/Oyun/Downloads/SAR/SAR FRONTEND/SAR GUI/icons/cloudy.png</file>
+        <file>C:/Users/Oyun/Downloads/SAR/SAR FRONTEND/SAR GUI/icons/rainy.png</file>
+        <file>C:/Users/Oyun/Downloads/SAR/SAR FRONTEND/SAR GUI/icons/snowy.png</file>
+        <file>C:/Users/Oyun/Downloads/SAR/SAR FRONTEND/SAR GUI/icons/stormy.png</file>
+    </qresource>
+</RCC>
